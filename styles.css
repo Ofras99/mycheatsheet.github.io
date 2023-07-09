@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  main {
+    background-color: lightgreen;
+    font-family: monospace;
+    font-size: 1.2em;
+    padding: 10px;
+    
+  }
+  
+  h1 {
+    font-size: 2em;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 10px;
+  
+  }
+
+  p {
+    text-align: center;
+    margin: 10px auto;
+  }
+  
+  table{
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin: 0 auto;
+    
+  }
+  
+  table tr th, td{
+    border: 1px solid black;
+    padding: 15px;
+  }
+  
+  .header th{
+    background-color: lightblue;
+    font-weight: bold;
+    font-size: 1.5em;
+  }
+  
+  footer {
+    background-color: skyblue;
+    padding: 20px;
+    font-size: 1em;
+    font-style: italic;
+  }
+  
